@@ -1,0 +1,12 @@
+DEFINED_PHASES=install
+DESCRIPTION=A second brain, for you, forever
+EAPI=8
+HOMEPAGE=https://obsidian.md/
+INHERIT=desktop
+KEYWORDS=amd64
+LICENSE=Obsidian-EULA
+RESTRICT=binchecks strip
+SLOT=0
+SRC_URI=https://github.com/obsidianmd/obsidian-releases/releases/download/v1.1.16/Obsidian-1.1.16.AppImage https://appimage.github.io/database/Obsidian/icons/128x128/obsidian.png -> obsidian-appimage.png
+_eclasses_=desktop	021728fdc1b03b36357dbc89489e0f0d
+_md5_=daf57fe8ac58610286dfc45cec65a222
