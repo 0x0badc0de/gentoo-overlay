@@ -10,9 +10,9 @@ SRC_URI="https://github.com/Ultimaker/Cura/releases/download/${PV}/UltiMaker-Cur
 LICENSE="LGPL-3"
 SLOT="0"
 KEYWORDS="amd64"
-IUSE=""
+IUSE="kde"
 
-DEPEND=""
+DEPEND="kde? ( kde-plasma/xdg-desktop-portal-kde:5 )"
 RDEPEND="${DEPEND}"
 
 RESTRICT="binchecks strip"
