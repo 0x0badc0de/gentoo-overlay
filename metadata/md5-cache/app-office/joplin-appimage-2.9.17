@@ -9,4 +9,4 @@ RESTRICT=binchecks strip
 SLOT=0
 SRC_URI=https://github.com/laurent22/joplin/releases/download/v2.9.17/Joplin-2.9.17.AppImage https://joplinapp.org/images/Icon512.png -> joplin-appimage.png
 _eclasses_=desktop	021728fdc1b03b36357dbc89489e0f0d
-_md5_=29774e12944c53fe3f3c2be10546467f
+_md5_=121a17ffd2f867fcc839a2f8c014c5a9
