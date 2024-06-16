@@ -12,7 +12,7 @@ SLOT="0"
 KEYWORDS="amd64"
 IUSE="kde"
 
-DEPEND="kde? ( kde-plasma/xdg-desktop-portal-kde:5 )"
+DEPEND="kde? ( kde-plasma/xdg-desktop-portal-kde )"
 RDEPEND="${DEPEND}"
 
 RESTRICT="binchecks strip"
